@@ -1,4 +1,4 @@
-const symbols = ["🦁", "👨", "🌳", "🌟", "💥", "🎰"];
+ const symbols = ["🦁", "👨", "🌳", "🌟", "💥", "🎰"];
 // 🦁 = Lion, 👨 = Man, 🌳 = Tree, 🌟 = Wild, 💥 = Multiplier, 🎰 = Free Spin
 
 const weights = {
