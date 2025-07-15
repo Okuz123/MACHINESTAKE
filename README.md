@@ -1,0 +1,2 @@
+# MACHINESTAKE
+Slot game
